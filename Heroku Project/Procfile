@@ -1,0 +1,1 @@
+web: gunicorn shresth.wsgi --log-file - --max-requests 2
