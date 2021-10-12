@@ -10,7 +10,7 @@ gunicorn==19.9.0
 html5lib==0.9999999
 Markdown==2.6.11
 numpy==1.14.5
-opencv-python==3.4.1.15
+opencv-python==4.2.0.32
 pandas==0.23.3
 protobuf==3.6.0
 python-dateutil==2.7.3
